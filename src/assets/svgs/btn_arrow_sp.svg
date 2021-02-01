@@ -1,0 +1,13 @@
+<svg class="u-sp" viewBox="0 0 66 10" xmlns="http://www.w3.org/2000/svg">
+                                  <defs>
+                                    <style>
+                                      .ico__btn_arrow {
+                                        fill: #eee;
+                                        fill-rule: evenodd;
+                                      }
+                                    </style>
+                                  </defs>
+                                  <path id="btn_arrow_sp.svg" class="ico__btn_arrow"
+                                    d="M491,1999h60v1H491v-1Zm66.238,1.42,0.007-.01c0.411-.09.313-0.32-0.037-0.39H557.2a90.31,90.31,0,0,1-18.27-4.62,48.556,48.556,0,0,1-8.492-4.86l-0.083-.05c-1.938,4.43-5.705,3.5-6.392,5.11h0c2.586,0.02,1.94,1.97,1.66,2.33-0.476.6-2.681,1.6-3.461-1.64h0c-3.457-1.1-7.71,4.93-10.662,3.67v0.54Z"
+                                    transform="translate(-491 -1990.5)"></path>
+                                </svg>

@@ -1,0 +1,36 @@
+<svg viewBox="0 0 748 78" style="enable-background:new 0 0 748 78;" 
+  xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+                <style type="text/css">
+                  .logo_sqex_01 {
+                    fill: #FFFFFF;
+                  }
+
+                  .logo_sqex_02 {
+                    fill: #E20A16;
+                  }
+                </style>
+                <g>
+                  <path class="logo_sqex_01" d="M97,0c-6.6,0-12,5.4-12,12v45c0,6.6,5.4,12,12,12h16v9h15v-9h17c6.6,0,12-5.4,12-12V12c0-6.6-5.4-12-12-12H97z
+                    M100,12h41v44h-13v-7h-15v7h-13V12z"></path>
+                  <path class="logo_sqex_01" d="M14,0C7.4,0,2,5.4,2,12v16c0,6.6,5.4,12,12,12h44h2v16h-2H31H19h-2H0v1c0,6.6,5.4,12,12,12h5h2h42
+                    c6.6,0,12-5.4,12-12V39c0-6.6-5.4-12-12-12h-3H15V12h43v6h14v-6c0-6.6-5.4-12-12-12H14z"></path>
+                  <path class="logo_sqex_01"
+                    d="M169,0v12v45c0,6.6,5.4,12,12,12h8h9h1h8h17c6.6,0,12-5.4,12-12V12V0h-9h-5h-1v56h-14h-8h-1h-9h-5V0h-3H169z">
+                  </path>
+                  <path class="logo_sqex_01"
+                    d="M273.5,1L239,69h15l7.6-15h38.8l7.6,15h15L288.5,1L288,0h-14L273.5,1z M281,15.8L294.3,42h-26.6L281,15.8z">
+                  </path>
+                  <path class="logo_sqex_01" d="M330,0v12v19v38h15V43h9.5l25,26h20l-25-26h7.5c6.6,0,12-5.4,12-12V12c0-6.6-5.4-12-12-12h-37h-3H330z M345,12
+                    h30c2.2,0,4,1.8,4,4v11c0,2.2-1.8,4-4,4h-30V12z"></path>
+                  <path class="logo_sqex_01" d="M407,0v69h58V56h-43V12h43V0H407z"></path>
+                  <rect x="435" y="27" class="logo_sqex_02" width="25" height="13"></rect>
+                  <path class="logo_sqex_01" d="M497,0v69h58V56h-43V12h43V0H497z"></path>
+                  <rect x="525" y="27" class="logo_sqex_02" width="25" height="13"></rect>
+                  <path class="logo_sqex_01"
+                    d="M567,0v3.5V69h14V20.2l36,42.9l1,1.2l3.9,4.7h3.1h6h1V0h-1h-14v46.4L581,3.5L578.1,0H567z"></path>
+                  <rect x="644" class="logo_sqex_01" width="16" height="69"></rect>
+                  <path class="logo_sqex_01"
+                    d="M667.9,0l30,33.3L667.8,69h18l21.5-25.3L730.1,69h18L716,33.3L744.2,0h-18l-19.6,23.1L685.9,0H667.9z">
+                  </path>
+                </g>
+              </svg>

@@ -1,1 +1,36 @@
-/* You can add global styles to this file, and also import other style files */
+@import "assets/styles/app.css";
+@import "assets/styles/fonts.css";
+
+.hidden {
+  display: none;
+}
+
+.fade-in {
+  opacity: 1;
+  animation: fadeInOpacity ease 2s;
+}
+
+.fade-in-up {
+  opacity: 1;
+  animation: fadeInTransform ease 2s;
+}
+
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInTransform {
+  0% {
+    opacity: 0;
+    transform: translate(0px, 16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px, 0px);
+  }
+}
